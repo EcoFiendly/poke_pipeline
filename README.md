@@ -4,9 +4,9 @@ Small ELT pipeline using pokeapi
 
 # Architecture
 
-API: pokeapi
-Object storage: Minio
-OLAP db: duckdb
+API: pokeapi \
+Object storage: Minio \
+OLAP db: duckdb \
 Orchestrator: Astronomer Airflow
 
 # Deploy Your Project Locally
